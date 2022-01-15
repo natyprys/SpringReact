@@ -10,3 +10,4 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+// acesso o root do div do html e renderizo dentro dele um componente de app
