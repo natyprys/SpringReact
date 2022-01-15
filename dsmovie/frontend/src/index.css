@@ -1,1 +1,23 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+:root {
+  --color-primary: #41c0ab;
+}
+
+/* Para todos os componentes do css */
+* {
+    box-sizing: border-box;
+    /* para que o espaçamento e a borda n ocupe espaço a mais do que o definido   */
+    font-family: 'Open Sans', sans-serif;
+}
+
+html, body {
+    background-color: #e8e8e8;
+}
+
+/* toda vez que tiver um link - sem decoração e nem uma cor para o texto*/
+a, a:hover {
+  text-decoration: none;
+  color: unset;
+}
