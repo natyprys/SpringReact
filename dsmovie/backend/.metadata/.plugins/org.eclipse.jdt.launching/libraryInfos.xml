@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><libraryInfos>
+<libraryInfo home="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b" version="1.8.0">
+<bootpath>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\bin\compressedrefs\jclSC180\vm.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\se-service.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\math.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\jlm.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\ibmorb.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\ibmorbapi.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\ibmcfw.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\ibmpkcs.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\ibmcertpathfw.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\ibmjgssfw.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\ibmjssefw.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\ibmsaslfw.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\ibmjcefw.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\ibmjgssprovider.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\ibmjsseprovider2.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\ibmcertpathprovider.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\xmldsigfw.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\xml.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\charsets.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\resources.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\rt.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\dataaccess.jar"/>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\ibmgpu.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\eclipse-jee-2020-06-icpbra\eclipse-jee-2020-06-icpbra\ibm-jdk80-64b\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
